@@ -1,8 +1,6 @@
-Photo-Mosaic Builder made in Python.
-Danny Shum
+Photo-Mosaic Builder made in Python by Danny Shum
 
-
-To use this code, execute a command structured like this:   Python [program name] "[image file name]" [number of tiles]
+Execution: To use this code, execute a command structured like this:   Python [program name] "[image file name]" [number of tiles]
 
 Restrictions: 
 - The number of tiles cannot exceed 9800. 
